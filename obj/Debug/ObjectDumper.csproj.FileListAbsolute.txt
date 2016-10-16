@@ -1,0 +1,6 @@
+D:\rahman\ObjectDumper\bin\Debug\ObjectDumper.exe.config
+D:\rahman\ObjectDumper\bin\Debug\ObjectDumper.exe
+D:\rahman\ObjectDumper\bin\Debug\ObjectDumper.pdb
+D:\rahman\ObjectDumper\obj\Debug\ObjectDumper.csprojResolveAssemblyReference.cache
+D:\rahman\ObjectDumper\obj\Debug\ObjectDumper.exe
+D:\rahman\ObjectDumper\obj\Debug\ObjectDumper.pdb
