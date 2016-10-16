@@ -1,4 +1,4 @@
-In the past I had to dump and object to string for Debuging or Auditing purposes.
+In the past I had to dump an object to string for Debuging or Auditing purposes.
 
 This is a simple class that dumps any object to a Xml representation of it that can be logged
 or saved etc.
